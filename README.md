@@ -1,8 +1,8 @@
-<h2 align="left">Hey I am Paid and I like to Code</h2>
+<h2 align="center">Hey I am Paid and I like to Code</h2>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -31,12 +31,16 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/37/c2/13/37c213627014c4a98f20321a2e3f9079.gif"  />
+<div align="center">
+  <img height="450" src="https://i.pinimg.com/originals/f6/84/6c/f6846c6a6d128ac0106eea3a85a0125a.gif"  />
+</div>
 
 ###
 
 <div align="center">
-  <img height="450" src="https://i.pinimg.com/originals/f6/84/6c/f6846c6a6d128ac0106eea3a85a0125a.gif"  />
+  <a href="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=topfan2005)">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Paid&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
