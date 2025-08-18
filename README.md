@@ -1,42 +1,46 @@
-<h2 align="center">Hey I am Paid and I like to Code</h2>
+<h1 align="center">I am <strong>Paid</strong></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=250&center=true&vCenter=true&width=900&lines=Fuck+my+life%2C+can't+save+that+girl;Don't+tell+me+you+could+save+that+shit;All+she+want+is+payback+for+the+way+I+always+play+that+shit;You+ain't+gettin'+nothin'+that+I'm+sayin';Don't+tell+me+you+is;Nothin'+like+them+other+motherfuckers;I+can+make+you+rich+(I+can+make+you+rich);I+can+make+you+this%2C+baby%2C+I+can+make+you+that;I+can+take+you+there%2C+but+baby%2C+you+won't+make+it+back;Growin'+sick+of+this+and+I+don't+wanna+make+you+sad;Do+I+make+you+scared%3F+Baby%2C+won't+you+take+me+back%3F;Nothin'+like+them+other+motherfuckers;I+can+make+you+rich+(I+can+make+you+rich);Fuck+my+life%2C+can't+save+that+girl;Don't+tell+me+you+could+save+that+shit;All+she+want+is+payback+for+the+way+I+always+play+that+shit;You+ain't+gettin'+nothin'+that+I'm+sayin';Don't+tell+me+you+is;Down+another+lonely+road%2C+I+go;Just+another+lonely+road%2C+oh;I+just+wanna+know%2C+I+just+gotta+know;Do+you+wanna+glow%3F+Baby%2C+we+could+glow;Do+I+make+you+scared%3F+Baby%2C+won't+you+take+me+back%3F;Nothin'+like+them+other+motherfuckers;I+can+make+you+rich+(I+can+make+you+rich)" alt="song lyrics" />
+</p>
 
-###
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/paidactorde/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://github.com/PaidActorDe">
+    <img src="https://komarev.com/ghpvc/?username=PaidActorDe&label=Profile%20Views&color=8A2BE2&style=flat" alt="views" />
   </a>
-  <a href="https://www.twitch.tv/paidactorde" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="https://discord.gg/ZpU6tgW9FT">
+    <img src="https://img.shields.io/badge/Discord-active-5865F2?logo=discord&logoColor=white" alt="discord" />
   </a>
-  <a href="revvde" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://twitch.tv/paidactorde">
+    <img src="https://img.shields.io/badge/Twitch-live-9146FF?logo=twitch&logoColor=white" alt="twitch" />
   </a>
-  <a href="revenanttwitch@gmail.,com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="450" src="https://i.pinimg.com/originals/f6/84/6c/f6846c6a6d128ac0106eea3a85a0125a.gif"  />
-</div>
-
-###
+</p>
 
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/285413645687455744.png" width="450" alt="discord widget"/>
+</p>
 
-###
+### About Me
+- **Developer for ModernGaming**
+- **Application Developer** at one of the **leading** wholesale companies for sanitary, heating and climate technology in Germany  
+- Counter Strike 2, Garry’s Mod, Dead by Daylight, Rocket League
+
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,nodejs,py,java,cs,mysql,git,vscode&theme=dark" />
+</p>
+
+### Projects
+- **SCP-1123 for GMod**  
+  Creates hallucinations that can lead to death  
+- **North Star Foundation Polaris Website**  
+  Official website of the SCP SL community (down/no longer part of the community)  
+- **MSBoard (Win)**  
+  Modern soundboard (outdated/won’t update it)
+
+> Currently my priority is <a href ="https://modern-gaming.net/">ModernGaming</a>
+
+<p align="center">
+  <em>“I can't be normal. I'm probably bipolar.”</em>
+</p>
