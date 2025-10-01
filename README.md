@@ -22,9 +22,7 @@
 </p>
 
 ### About Me
-- **Developer for ModernGaming**
 - **Application Developer** at one of the **leading** wholesale companies for sanitary, heating and climate technology in Germany  
-- Counter Strike 2, Garry’s Mod, Dead by Daylight, Rocket League
 
 ### Tech Stack
 <p>
@@ -38,8 +36,6 @@
   Official website of the SCP SL community (down/no longer part of the community)  
 - **MSBoard (Win)**  
   Modern soundboard (outdated/won’t update it)
-
-> Currently my priority is <a href ="https://modern-gaming.net/">ModernGaming</a>
 
 <p align="center">
   <em>“I can't be normal. I'm probably bipolar.”</em>
