@@ -30,8 +30,8 @@
 </p>
 
 ### Projects
-- **SCP-1123 for GMod**  
-  Creates hallucinations that can lead to death  
+- **All you can Stream**  
+  A flexible Electron app that smartly integrates streaming APIs.
 - **North Star Foundation Polaris Website**  
   Official website of the SCP SL community (down/no longer part of the community)  
 - **MSBoard (Win)**  
