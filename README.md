@@ -22,20 +22,23 @@
 </p>
 
 ### About Me
-- **Application Developer** at one of the **leading** wholesale companies for sanitary, heating and climate technology in Germany  
-
-### Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,nodejs,py,java,cs,mysql,git,vscode&theme=dark" />
-</p>
+- **Application Developer** at one of the **leading** wholesale companies for sanitary, heating and climate technology in Germany
+- In my freetime I **really** like to build plugins, or create **electron** apps.
+- I **hate** electron.
 
 ### Projects
 - **All you can Stream**  
-  A flexible Electron app that smartly integrates streaming APIs.
-- **North Star Foundation Polaris Website**  
-  Official website of the SCP SL community (down/no longer part of the community)  
-- **MSBoard (Win)**  
-  Modern soundboard (outdated/won’t update it)
+  A flexible Electron app that smartly integrates streaming APIs for educational and personal use only.
+- **North Star Foundation Polaris**  
+  Created Exiled Plugins and the official Website. 
+- **JvS Garrys Mod**  
+  Fixed bugs and built small features for <a href="https://modern-gaming.net/forum/">Modern Gaming</a>.
+
+### Currently working on
+- **friendshipLeaderboad**  
+  Opens a custom leaderboard modal with a podium for your longest friends.
+- **All you can Stream Mobile**  
+  Mobile Version of my **Streaming App**. I f**king hate mobile development and idk if I will ever finish this one.
 
 <p align="center">
   <em>“I can't be normal. I'm probably bipolar.”</em>
