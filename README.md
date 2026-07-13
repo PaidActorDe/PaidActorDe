@@ -9,10 +9,10 @@
     <img src="https://komarev.com/ghpvc/?username=PaidActorDe&label=Profile%20Views&color=8A2BE2&style=flat" alt="views" />
   </a>
   <a href="https://discord.gg/ZpU6tgW9FT">
-    <img src="https://img.shields.io/badge/Discord-active-5865F2?logo=discord&logoColor=white" alt="discord" />
+    <img src="https://img.shields.io/badge/Discord-revvde-5865F2?logo=discord&logoColor=white" alt="discord" />
   </a>
   <a href="https://twitch.tv/paidactorde">
-    <img src="https://img.shields.io/badge/Twitch-live-9146FF?logo=twitch&logoColor=white" alt="twitch" />
+    <img src="https://img.shields.io/badge/Twitch-PaidActorDe-9146FF?logo=twitch&logoColor=white" alt="twitch" />
   </a>
 </p>
 
